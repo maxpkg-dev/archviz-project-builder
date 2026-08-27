@@ -1,7 +1,7 @@
 /*
 [INFO]
 NAME=Archviz Project Builder
-VERSION=1.0.0
+VERSION=x.x.x
 AUTHOR=Vasyl Lukianenko
 DEV=https://3dground.net
 SITE=https://maxpkg.dev
@@ -9,7 +9,7 @@ HELP=
 UPDATE=
 
 [ABOUT]
-
+Create and reuse custom folder structures for architectural visualization projects directly in 3ds Max.=
 
 [1.0.0]
 * Initial release =
